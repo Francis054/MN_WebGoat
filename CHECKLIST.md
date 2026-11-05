@@ -33,4 +33,7 @@ Date: 5 November 2026
 
 ## 4. SonarQube for IDE warnings I saw in app.js
 
-- Version information disclosed by default through HTTP headers is often overlooked by developers
+
+Improper input validation exposed sensitive information from the database to and unauthorised use/client
+
+Solution: Proper input validation (by design) to prevent unauthorised data exposure
