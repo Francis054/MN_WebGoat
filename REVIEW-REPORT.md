@@ -5,7 +5,7 @@
 **Week:** Week 5, Application Security and Secure Development  
 **Date:** 6 November 2026  
 **Project:** Bootcamp App  
-**Repository: https://github.com/Francis054/MN_WebGoat.git
+**Repository:** https://github.com/Francis054/MN_WebGoat.git
 **Application stack:** Node.js, Express.js, SQLite and Lodash
 
 ---
